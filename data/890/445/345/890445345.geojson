@@ -1,0 +1,66 @@
+{
+  "id": 890445345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.66748,-7.46168,178.66748,-7.46168",
+    "geom:latitude":-7.46168,
+    "geom:longitude":178.66748,
+    "gn:country":"TV",
+    "gn:fcode":"PPL",
+    "gn:pop":52,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Temotu Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        1108826401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110349,
+        "qs:id":572080,
+        "wd:id":"Q16901401",
+        "wk:page":"Temotu, Tuvalu"
+    },
+    "wof:country":"TV",
+    "wof:created":1469052506,
+    "wof:geomhash":"1f4b97c0b6cfb7fb4c136325bcdbb091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":890445345,
+            "region_id":1108826401
+        }
+    ],
+    "wof:id":890445345,
+    "wof:lastmodified":1530305915,
+    "wof:name":"Temotu Village",
+    "wof:parent_id":1108826401,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.66748,
+    -7.46168,
+    178.66748,
+    -7.46168
+],
+  "geometry": {"coordinates":[178.66748000000001,-7.46168],"type":"Point"}
+}

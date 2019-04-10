@@ -1,0 +1,87 @@
+{
+  "id": 890413107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.31472,-6.28764,176.31472,-6.28764",
+    "geom:latitude":-6.28764,
+    "geom:longitude":176.31472,
+    "gn:country":"TV",
+    "gn:fcode":"PPL",
+    "gn:pop":308,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tonga"
+    ],
+    "name:eng_x_preferred":[
+        "Tonga"
+    ],
+    "name:mac_x_preferred":[
+        "\u0422\u043e\u043d\u0433\u0430"
+    ],
+    "name:nob_x_preferred":[
+        "Tonga"
+    ],
+    "name:pol_x_preferred":[
+        "Tonga"
+    ],
+    "name:spa_x_preferred":[
+        "Tonga"
+    ],
+    "name:unk_x_variant":[
+        "Tonga"
+    ],
+    "qs:name":"Toga Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421193671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110302,
+        "qs:id":572069,
+        "wd:id":"Q3394651",
+        "wk:page":"Toga, Toyama"
+    },
+    "wof:country":"TV",
+    "wof:created":1469050988,
+    "wof:geomhash":"51f3cf8ac57eb9339d518216b7b2d25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":890413107,
+            "region_id":421193671
+        }
+    ],
+    "wof:id":890413107,
+    "wof:lastmodified":1530305915,
+    "wof:name":"Toga Village",
+    "wof:parent_id":421193671,
+    "wof:placetype":"locality",
+    "wof:population":308,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.31472,
+    -6.28764,
+    176.31472,
+    -6.28764
+],
+  "geometry": {"coordinates":[176.31471999999999,-6.28764],"type":"Point"}
+}

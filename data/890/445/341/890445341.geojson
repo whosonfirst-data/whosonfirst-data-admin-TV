@@ -1,0 +1,63 @@
+{
+  "id": 890445341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.09076,-5.65579,176.09076,-5.65579",
+    "geom:latitude":-5.65579,
+    "geom:longitude":176.09076,
+    "gn:country":"TV",
+    "gn:fcode":"ATOL",
+    "gn:pop":664,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Nanomea Atoll"
+    ],
+    "qs:name":"Nanumea Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110344,
+        "qs:id":572078
+    },
+    "wof:country":"TV",
+    "wof:created":1469052506,
+    "wof:geomhash":"2fb9a8fa09b8d94cb99a15f0acd5c242",
+    "wof:hierarchy":[
+        {
+            "country_id":85632607,
+            "locality_id":890445341
+        }
+    ],
+    "wof:id":890445341,
+    "wof:lastmodified":1505343604,
+    "wof:name":"Nanumea Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":664,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.09076,
+    -5.65579,
+    176.09076,
+    -5.65579
+],
+  "geometry": {"coordinates":[176.09075999999999,-5.65579],"type":"Point"}
+}

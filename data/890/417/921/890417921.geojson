@@ -1,0 +1,62 @@
+{
+  "id": 890417921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.19502,-8.49922,179.19502,-8.49922",
+    "geom:latitude":-8.49922,
+    "geom:longitude":179.19502,
+    "gn:country":"TV",
+    "gn:fcode":"PPLX",
+    "gn:pop":540,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Teone Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":2953,
+    "wof:belongsto":[
+        85632607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602537,
+        "qs:id":693739,
+        "wd:id":"Q34126",
+        "wk:page":"Funafuti"
+    },
+    "wof:country":"TV",
+    "wof:created":1469051227,
+    "wof:geomhash":"ea606131395007c7ccc0f00cce60a45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632607,
+            "neighbourhood_id":890417921
+        }
+    ],
+    "wof:id":890417921,
+    "wof:lastmodified":1527782126,
+    "wof:name":"Teone Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":540,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.19502,
+    -8.49922,
+    179.19502,
+    -8.49922
+],
+  "geometry": {"coordinates":[179.19502,-8.49922],"type":"Point"}
+}

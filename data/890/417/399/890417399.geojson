@@ -1,0 +1,70 @@
+{
+  "id": 890417399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.1941,-8.52544,179.1941,-8.52544",
+    "geom:latitude":-8.52544,
+    "geom:longitude":179.1941,
+    "gn:country":"TV",
+    "gn:fcode":"PPLX",
+    "gn:pop":516,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vaiaku"
+    ],
+    "qs:name":"Vaiaku Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421204425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7601977,
+        "qs:id":693625,
+        "wd:id":"Q248201",
+        "wk:page":"Vaiaku"
+    },
+    "wof:country":"TV",
+    "wof:created":1469051199,
+    "wof:geomhash":"bea5023489b744b75d36cd6c29c6da38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":-1,
+            "neighbourhood_id":890417399,
+            "region_id":421204425
+        }
+    ],
+    "wof:id":890417399,
+    "wof:lastmodified":1530305917,
+    "wof:name":"Vaiaku Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":516,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.1941,
+    -8.52544,
+    179.1941,
+    -8.52544
+],
+  "geometry": {"coordinates":[179.19409999999999,-8.52544],"type":"Point"}
+}

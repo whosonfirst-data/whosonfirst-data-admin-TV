@@ -1,0 +1,99 @@
+{
+  "id": 890428955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.68016,-7.49026,178.68016,-7.49026",
+    "geom:latitude":-7.49026,
+    "geom:longitude":178.68016,
+    "gn:country":"TV",
+    "gn:fcode":"PPL",
+    "gn:pop":219,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0633\u0627\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Asau"
+    ],
+    "name:eng_x_preferred":[
+        "Asau"
+    ],
+    "name:fre_x_preferred":[
+        "Asau"
+    ],
+    "name:ger_x_preferred":[
+        "Asau"
+    ],
+    "name:ita_x_preferred":[
+        "Asau"
+    ],
+    "name:lit_x_preferred":[
+        "Asau"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0441\u0430\u0443"
+    ],
+    "name:nob_x_preferred":[
+        "Asau"
+    ],
+    "name:pol_x_preferred":[
+        "Asau"
+    ],
+    "name:spa_x_preferred":[
+        "Asau"
+    ],
+    "qs:name":"Asau Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":309,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        1108826401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110415,
+        "qs:id":90799,
+        "wd:id":"Q2481883",
+        "wk:page":"Asau, Samoa"
+    },
+    "wof:country":"TV",
+    "wof:created":1469051783,
+    "wof:geomhash":"72c687c6e8bbefd5d93b85a1c0c6107d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":890428955,
+            "region_id":1108826401
+        }
+    ],
+    "wof:id":890428955,
+    "wof:lastmodified":1553816393,
+    "wof:name":"Asau Village",
+    "wof:parent_id":1108826401,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.68016,
+    -7.49026,
+    178.68016,
+    -7.49026
+],
+  "geometry": {"coordinates":[178.68016,-7.49026],"type":"Point"}
+}

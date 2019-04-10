@@ -1,0 +1,63 @@
+{
+  "id": 890418623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.69256,-7.48996,178.69256,-7.48996",
+    "geom:latitude":-7.48996,
+    "geom:longitude":178.69256,
+    "gn:country":"TV",
+    "gn:fcode":"PPL",
+    "gn:pop":506,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Motufoua School",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        1108826401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602271,
+        "qs:id":693653
+    },
+    "wof:country":"TV",
+    "wof:created":1469051255,
+    "wof:geomhash":"ee28dce0052bac01180da00f3fcc7744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":890418623,
+            "region_id":1108826401
+        }
+    ],
+    "wof:id":890418623,
+    "wof:lastmodified":1530305916,
+    "wof:name":"Motufoua School",
+    "wof:parent_id":1108826401,
+    "wof:placetype":"locality",
+    "wof:population":506,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.69256,
+    -7.48996,
+    178.69256,
+    -7.48996
+],
+  "geometry": {"coordinates":[178.69255999999999,-7.48996],"type":"Point"}
+}

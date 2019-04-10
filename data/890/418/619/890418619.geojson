@@ -1,0 +1,66 @@
+{
+  "id": 890418619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.11515,-5.67398,176.11515,-5.67398",
+    "geom:latitude":-5.67398,
+    "geom:longitude":176.11515,
+    "gn:country":"TV",
+    "gn:fcode":"PPL",
+    "gn:pop":215,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lolua Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421193681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602166,
+        "qs:id":693645,
+        "wd:id":"Q610946",
+        "wk:page":"List of villages and neighbourhoods in Tuvalu"
+    },
+    "wof:country":"TV",
+    "wof:created":1469051254,
+    "wof:geomhash":"76366217d8ea1ab1596df9f233e3e5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":890418619,
+            "region_id":421193681
+        }
+    ],
+    "wof:id":890418619,
+    "wof:lastmodified":1530305914,
+    "wof:name":"Lolua Village",
+    "wof:parent_id":421193681,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.11515,
+    -5.67398,
+    176.11515,
+    -5.67398
+],
+  "geometry": {"coordinates":[176.11515,-5.67398],"type":"Point"}
+}

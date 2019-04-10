@@ -1,0 +1,71 @@
+{
+  "id": 890424321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.80785,-9.37058,179.80785,-9.37058",
+    "geom:latitude":-9.37058,
+    "geom:longitude":179.80785,
+    "gn:country":"TV",
+    "gn:fcode":"PPL",
+    "gn:pop":188,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nukualofa Village"
+    ],
+    "qs:name":"Nukualofa Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:latitude":"-21.134722222",
+    "wd:longitude":"-175.208333333",
+    "wd:wordcount":2087,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421193677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602153,
+        "qs:id":693643,
+        "wk:page":"Nuku\u02bbalofa"
+    },
+    "wof:country":"TV",
+    "wof:created":1469051539,
+    "wof:geomhash":"e64a30b4c744a704e7a3eb8cd336e3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":890424321,
+            "region_id":421193677
+        }
+    ],
+    "wof:id":890424321,
+    "wof:lastmodified":1552518296,
+    "wof:name":"Nukualofa Village",
+    "wof:parent_id":421193677,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.80785,
+    -9.37058,
+    179.80785,
+    -9.37058
+],
+  "geometry": {"coordinates":[179.80785,-9.37058],"type":"Point"}
+}

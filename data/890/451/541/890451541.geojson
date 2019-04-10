@@ -1,0 +1,67 @@
+{
+  "id": 890451541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.19829,-8.5174,179.19829,-8.5174",
+    "geom:latitude":-8.5174,
+    "geom:longitude":179.19829,
+    "gn:country":"TV",
+    "gn:fcode":"PPLX",
+    "gn:pop":589,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Senala Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421204425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602507,
+        "qs:id":693733,
+        "wd:id":"Q610946",
+        "wk:page":"List of villages and neighbourhoods in Tuvalu"
+    },
+    "wof:country":"TV",
+    "wof:created":1469052783,
+    "wof:geomhash":"f0eb3351c0fe08ddb42a2f075789e064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":-1,
+            "neighbourhood_id":890451541,
+            "region_id":421204425
+        }
+    ],
+    "wof:id":890451541,
+    "wof:lastmodified":1530305916,
+    "wof:name":"Senala Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":589,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.19829,
+    -8.5174,
+    179.19829,
+    -8.5174
+],
+  "geometry": {"coordinates":[179.19828999999999,-8.5174],"type":"Point"}
+}

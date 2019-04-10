@@ -1,0 +1,66 @@
+{
+  "id": 890424323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.80917,-9.37322,179.80917,-9.37322",
+    "geom:latitude":-9.37322,
+    "geom:longitude":179.80917,
+    "gn:country":"TV",
+    "gn:fcode":"PPL",
+    "gn:pop":205,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pepesala Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421193677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602154,
+        "qs:id":693644,
+        "wd:id":"Q3359953",
+        "wk:page":"Fangaua"
+    },
+    "wof:country":"TV",
+    "wof:created":1469051539,
+    "wof:geomhash":"67edb726264665361262b8bb9a3e98b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":890424323,
+            "region_id":421193677
+        }
+    ],
+    "wof:id":890424323,
+    "wof:lastmodified":1530305914,
+    "wof:name":"Pepesala Village",
+    "wof:parent_id":421193677,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.80917,
+    -9.37322,
+    179.80917,
+    -9.37322
+],
+  "geometry": {"coordinates":[179.80916999999999,-9.37322],"type":"Point"}
+}

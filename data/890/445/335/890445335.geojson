@@ -1,0 +1,63 @@
+{
+  "id": 890445335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.15334,-7.23264,177.15334,-7.23264",
+    "geom:latitude":-7.23264,
+    "geom:longitude":177.15334,
+    "gn:country":"TV",
+    "gn:fcode":"ATOL",
+    "gn:pop":548,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Eeg Island"
+    ],
+    "qs:name":"Nui Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110340,
+        "qs:id":572073
+    },
+    "wof:country":"TV",
+    "wof:created":1469052506,
+    "wof:geomhash":"339e1def85355d04ba954f45eb592884",
+    "wof:hierarchy":[
+        {
+            "country_id":85632607,
+            "locality_id":890445335
+        }
+    ],
+    "wof:id":890445335,
+    "wof:lastmodified":1505343604,
+    "wof:name":"Nui Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":548,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.15334,
+    -7.23264,
+    177.15334,
+    -7.23264
+],
+  "geometry": {"coordinates":[177.15333999999999,-7.23264],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1126011689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.67942,-7.48784,178.67942,-7.48784",
+    "geom:latitude":-7.48784,
+    "geom:longitude":178.67942,
+    "gn:gn_country":"TV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":287,
+    "gn:population":287,
+    "iso:country":"TV",
+    "lbl:latitude":-7.48784,
+    "lbl:longitude":178.67942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TV",
+    "qs_pg:gn_country":"TV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2110292,
+    "qs_pg:gn_pop":287,
+    "qs_pg:name":"Tumaseu Village",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":572065,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        1108826401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110292,
+        "qs_pg:id":572065
+    },
+    "wof:country":"TV",
+    "wof:created":1497300312,
+    "wof:geomhash":"d7971d89acaef3ddc7d12f68d445774d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":1126011689,
+            "region_id":1108826401
+        }
+    ],
+    "wof:id":1126011689,
+    "wof:lastmodified":1530305915,
+    "wof:name":"Tumaseu Village",
+    "wof:parent_id":1108826401,
+    "wof:placetype":"locality",
+    "wof:population":287,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.67942,
+    -7.48784,
+    178.67942,
+    -7.48784
+],
+  "geometry": {"coordinates":[178.67941999999999,-7.48784],"type":"Point"}
+}

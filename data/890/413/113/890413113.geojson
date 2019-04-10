@@ -1,0 +1,64 @@
+{
+  "id": 890413113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.36667,-8.0,178.36667,-8.0",
+    "geom:latitude":-8.0,
+    "geom:longitude":178.36667,
+    "gn:country":"TV",
+    "gn:fcode":"ATOL",
+    "gn:pop":586,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Peyster\u2019s Group"
+    ],
+    "qs:name":"Nukufetau Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110338,
+        "gp:id":1064289,
+        "qs:id":572072
+    },
+    "wof:country":"TV",
+    "wof:created":1469050989,
+    "wof:geomhash":"819ea4ec52aef0baffd564e6c7378a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632607,
+            "locality_id":890413113
+        }
+    ],
+    "wof:id":890413113,
+    "wof:lastmodified":1505343412,
+    "wof:name":"Nukufetau Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":586,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.36667,
+    -8.0,
+    178.36667,
+    -8.0
+],
+  "geometry": {"coordinates":[178.36667,-8.0],"type":"Point"}
+}

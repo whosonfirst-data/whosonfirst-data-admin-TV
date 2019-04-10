@@ -1,0 +1,93 @@
+{
+  "id": 890413109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.14511,-7.24562,177.14511,-7.24562",
+    "geom:latitude":-7.24562,
+    "geom:longitude":177.14511,
+    "gn:country":"TV",
+    "gn:fcode":"PPL",
+    "gn:pop":408,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tanrake"
+    ],
+    "name:eng_x_preferred":[
+        "Tanrake"
+    ],
+    "name:ger_x_preferred":[
+        "Tanrake"
+    ],
+    "name:mac_x_preferred":[
+        "\u0422\u0430\u043d\u0440\u0430\u043a\u0435"
+    ],
+    "name:nob_x_preferred":[
+        "Tanrake"
+    ],
+    "name:pol_x_preferred":[
+        "Tanrake"
+    ],
+    "name:por_x_preferred":[
+        "Tanrake"
+    ],
+    "name:spa_x_preferred":[
+        "Tanrake"
+    ],
+    "name:unk_x_variant":[
+        "Tapotali"
+    ],
+    "qs:name":"Tanrake Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421203363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110322,
+        "qs:id":572070,
+        "wd:id":"Q3394618",
+        "wk:page":"Tanrake"
+    },
+    "wof:country":"TV",
+    "wof:created":1469050988,
+    "wof:geomhash":"43d9e41040fa0190d866fc04c9617e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":890413109,
+            "region_id":421203363
+        }
+    ],
+    "wof:id":890413109,
+    "wof:lastmodified":1530305914,
+    "wof:name":"Tanrake Village",
+    "wof:parent_id":421203363,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.14511,
+    -7.24562,
+    177.14511,
+    -7.24562
+],
+  "geometry": {"coordinates":[177.14510999999999,-7.24562],"type":"Point"}
+}

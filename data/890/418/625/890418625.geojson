@@ -1,0 +1,67 @@
+{
+  "id": 890418625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.31351,-8.02731,178.31351,-8.02731",
+    "geom:latitude":-8.02731,
+    "geom:longitude":178.31351,
+    "gn:country":"TV",
+    "gn:fcode":"PPL",
+    "gn:pop":586,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Savave Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":192,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421193679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602373,
+        "gp:id":1064289,
+        "qs:id":693656,
+        "wd:id":"Q3293321",
+        "wk:page":"Savave"
+    },
+    "wof:country":"TV",
+    "wof:created":1469051255,
+    "wof:geomhash":"27cbb7943d2cb6741f98f7e7798d18a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":890418625,
+            "region_id":421193679
+        }
+    ],
+    "wof:id":890418625,
+    "wof:lastmodified":1530305914,
+    "wof:name":"Savave Village",
+    "wof:parent_id":421193679,
+    "wof:placetype":"locality",
+    "wof:population":586,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.31351,
+    -8.02731,
+    178.31351,
+    -8.02731
+],
+  "geometry": {"coordinates":[178.31351000000001,-8.02731],"type":"Point"}
+}

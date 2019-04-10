@@ -1,0 +1,67 @@
+{
+  "id": 890451543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.20094,-8.51758,179.20094,-8.51758",
+    "geom:latitude":-8.51758,
+    "geom:longitude":179.20094,
+    "gn:country":"TV",
+    "gn:fcode":"PPLX",
+    "gn:pop":1007,
+    "iso:country":"TV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Fakaifou Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":2953,
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421204425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602508,
+        "qs:id":693734,
+        "wd:id":"Q34126",
+        "wk:page":"Funafuti"
+    },
+    "wof:country":"TV",
+    "wof:created":1469052784,
+    "wof:geomhash":"be7def9fbe62fe8d93ad8949cf9ca734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":-1,
+            "neighbourhood_id":890451543,
+            "region_id":421204425
+        }
+    ],
+    "wof:id":890451543,
+    "wof:lastmodified":1530305916,
+    "wof:name":"Fakaifou Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1007,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.20094,
+    -8.51758,
+    179.20094,
+    -8.51758
+],
+  "geometry": {"coordinates":[179.20094,-8.51758],"type":"Point"}
+}

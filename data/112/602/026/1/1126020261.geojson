@@ -1,0 +1,92 @@
+{
+  "id": 1126020261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.31534,-6.28536,176.31534,-6.28536",
+    "geom:latitude":-6.28536,
+    "geom:longitude":176.31534,
+    "gn:gn_country":"TV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":281,
+    "gn:population":281,
+    "iso:country":"TV",
+    "lbl:latitude":-6.28536,
+    "lbl:longitude":176.31534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tokelau"
+    ],
+    "name:eng_x_preferred":[
+        "Tokelau"
+    ],
+    "name:ger_x_preferred":[
+        "Tokelau"
+    ],
+    "name:pol_x_preferred":[
+        "Tokelau"
+    ],
+    "name:spa_x_preferred":[
+        "Tokelau"
+    ],
+    "qs_pg:aaroncc":"TV",
+    "qs_pg:gn_country":"TV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7602180,
+    "qs_pg:gn_pop":281,
+    "qs_pg:name":"Tokelau Village",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":693648,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632607,
+        421193671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602180,
+        "qs_pg:id":693648,
+        "wd:id":"Q7813539"
+    },
+    "wof:country":"TV",
+    "wof:created":1497300790,
+    "wof:geomhash":"3c103809548a4d8e4abf64e9700e22e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632607,
+            "locality_id":1126020261,
+            "region_id":421193671
+        }
+    ],
+    "wof:id":1126020261,
+    "wof:lastmodified":1553816705,
+    "wof:name":"Tokelau Village",
+    "wof:parent_id":421193671,
+    "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.31534,
+    -6.28536,
+    176.31534,
+    -6.28536
+],
+  "geometry": {"coordinates":[176.31533999999999,-6.28536],"type":"Point"}
+}

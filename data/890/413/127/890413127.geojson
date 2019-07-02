@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "Niulakita"
     ],
-    "name:chi_x_preferred":[
-        "\u7d10\u62c9\u57fa\u5854\u5cf6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Niulakita"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Niulakita"
     ],
     "name:eng_x_preferred":[
@@ -40,16 +37,13 @@
     "name:fao_x_preferred":[
         "Niulakita"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648\u0644\u0627\u06a9\u06cc\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Niulakita"
     ],
-    "name:fre_x_preferred":[
-        "Niulakita"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10e3\u10da\u10d0\u10d9\u10d8\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Niulakita"
     ],
     "name:glg_x_preferred":[
@@ -64,20 +58,23 @@
     "name:jpn_x_preferred":[
         "\u30cb\u30a6\u30e9\u30ad\u30bf\u5cf6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10e3\u10da\u10d0\u10d9\u10d8\u10e2\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub2c8\uc6b8\ub77c\ud0a4\ud0c0 \uc12c"
     ],
     "name:lit_x_preferred":[
         "Niulakita"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041d\u0438\u0443\u043b\u0430\u043a\u0438\u0442\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Niulakita"
     ],
     "name:nob_x_preferred":[
         "Niulakita"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0648\u0644\u0627\u06a9\u06cc\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Niulakita"
@@ -85,13 +82,13 @@
     "name:por_x_preferred":[
         "Niulakita"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Niulakita"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0443\u043b\u0430\u043a\u0438\u0442\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Niulakita"
     ],
     "name:spa_x_preferred":[
@@ -105,6 +102,9 @@
     ],
     "name:unk_x_variant":[
         "Nurakita"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d10\u62c9\u57fa\u5854\u5cf6"
     ],
     "qs:name":"Niulakita Island",
     "qs:photos_9r":0,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":890413127,
-    "wof:lastmodified":1514507649,
+    "wof:lastmodified":1561772682,
     "wof:name":"Niulakita Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

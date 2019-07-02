@@ -28,16 +28,7 @@
     "name:ces_x_preferred":[
         "Nukulaelae"
     ],
-    "name:chi_x_preferred":[
-        "\u52aa\u5eab\u840a\u840a\u74b0\u7901"
-    ],
-    "name:cze_x_preferred":[
-        "Nukulaelae"
-    ],
     "name:deu_x_preferred":[
-        "Nukulaelae"
-    ],
-    "name:dut_x_preferred":[
         "Nukulaelae"
     ],
     "name:eng_x_preferred":[
@@ -49,16 +40,13 @@
     "name:fao_x_preferred":[
         "Nukulaelae"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06a9\u0648\u0644\u0627\u0626\u0647\u200c\u0644\u0627\u0626\u0647"
+    ],
     "name:fin_x_preferred":[
         "Nukulaelae"
     ],
-    "name:fre_x_preferred":[
-        "Nukulaelae"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10e3\u10d9\u10e3\u10da\u10d0\u10d4\u10da\u10d0\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nukulaelae"
     ],
     "name:glg_x_preferred":[
@@ -76,20 +64,23 @@
     "name:jpn_x_preferred":[
         "\u30cc\u30af\u30e9\u30a8\u30e9\u30a8\u74b0\u7901"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10d9\u10e3\u10da\u10d0\u10d4\u10da\u10d0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ub204\ucfe8\ub77c\uc5d8\ub77c\uc5d0 \ud658\ucd08"
     ],
     "name:lit_x_preferred":[
         "Nukulaela\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041d\u0443\u043a\u0443\u043b\u0430\u0435\u043b\u0430\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Nukulaelae"
     ],
     "name:nob_x_preferred":[
         "Nukulaelae"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u06a9\u0648\u0644\u0627\u0626\u0647\u200c\u0644\u0627\u0626\u0647"
     ],
     "name:pol_x_preferred":[
         "Nukulaelae"
@@ -97,16 +88,13 @@
     "name:por_x_preferred":[
         "Nukulaelae"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nukulaelae"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u043a\u0443\u043b\u0430\u044d\u043b\u0430\u044d"
     ],
     "name:slk_x_preferred":[
-        "Nukulaelae"
-    ],
-    "name:slo_x_preferred":[
         "Nukulaelae"
     ],
     "name:spa_x_preferred":[
@@ -123,6 +111,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u06a9\u0648\u0644\u0627\u06d2\u0644\u0627\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u5eab\u840a\u840a\u74b0\u7901"
     ],
     "qs:name":"Nukulaelae Island",
     "qs:photos_9r":0,
@@ -148,7 +139,7 @@
         }
     ],
     "wof:id":890413111,
-    "wof:lastmodified":1514507649,
+    "wof:lastmodified":1561772682,
     "wof:name":"Nukulaelae Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

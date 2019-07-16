@@ -15,6 +15,18 @@
     "iso:country":"TV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Temotu"
+    ],
+    "name:eng_x_preferred":[
+        "Temotu"
+    ],
+    "name:fra_x_preferred":[
+        "Temotu"
+    ],
+    "name:pol_x_preferred":[
+        "Temotu"
+    ],
     "qs:name":"Temotu Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":890445345,
-    "wof:lastmodified":1530305915,
+    "wof:lastmodified":1563251382,
     "wof:name":"Temotu Village",
     "wof:parent_id":1108826401,
     "wof:placetype":"locality",

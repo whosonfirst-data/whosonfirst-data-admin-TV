@@ -15,10 +15,16 @@
     "iso:country":"TV",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tanrake Village"
+    ],
     "name:deu_x_preferred":[
         "Tanrake"
     ],
     "name:eng_x_preferred":[
+        "Tanrake"
+    ],
+    "name:ita_x_preferred":[
         "Tanrake"
     ],
     "name:mkd_x_preferred":[
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890413109,
-    "wof:lastmodified":1561772682,
+    "wof:lastmodified":1563251369,
     "wof:name":"Tanrake Village",
     "wof:parent_id":421203363,
     "wof:placetype":"locality",

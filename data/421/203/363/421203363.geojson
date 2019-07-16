@@ -23,6 +23,9 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u041d\u0443\u0456"
+    ],
     "name:cat_x_preferred":[
         "Nui"
     ],
@@ -35,26 +38,83 @@
     "name:eng_x_preferred":[
         "Nui"
     ],
+    "name:epo_x_preferred":[
+        "Nui"
+    ],
+    "name:fao_x_preferred":[
+        "Nui"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0626\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Nui"
     ],
     "name:fra_x_preferred":[
         "Nui"
     ],
+    "name:glg_x_preferred":[
+        "Nui"
+    ],
     "name:hun_x_preferred":[
         "Nui"
     ],
+    "name:ind_x_preferred":[
+        "Nui"
+    ],
+    "name:ita_x_preferred":[
+        "Nui"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a4\u74b0\u7901"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub204\uc774 \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Nui"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0443\u0438"
+    ],
     "name:nld_x_preferred":[
+        "Nui"
+    ],
+    "name:nob_x_preferred":[
         "Nui"
     ],
     "name:pol_x_preferred":[
         "Nui"
     ],
+    "name:por_x_preferred":[
+        "Nui"
+    ],
+    "name:ron_x_preferred":[
+        "Nui"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0438"
+    ],
     "name:slk_x_preferred":[
+        "Nui"
+    ],
+    "name:spa_x_preferred":[
+        "Nui"
+    ],
+    "name:swe_x_preferred":[
         "Nui"
     ],
     "name:unk_x_variant":[
         "Tnaguinui"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0626\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u4f0a\u74b0\u7901"
     ],
     "qs:gn_country":"TV",
     "qs:gn_fcode":"ADM1",
@@ -129,7 +189,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1553551419,
+    "wof:lastmodified":1563251364,
     "wof:name":"Nui",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

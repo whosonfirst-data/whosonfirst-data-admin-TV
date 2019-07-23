@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Nukulaelae"
     ],
+    "name:ceb_x_preferred":[
+        "Nukulaelae"
+    ],
     "name:ces_x_preferred":[
         "Nukulaelae"
     ],
@@ -56,6 +59,9 @@
         "\u05e0\u05d5\u05e7\u05d5\u05dc\u05d0\u05dc\u05d0\u05d4"
     ],
     "name:hun_x_preferred":[
+        "Nukulaelae"
+    ],
+    "name:ind_x_preferred":[
         "Nukulaelae"
     ],
     "name:ita_x_preferred":[
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":890413111,
-    "wof:lastmodified":1561772682,
+    "wof:lastmodified":1563251368,
     "wof:name":"Nukulaelae Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"TV",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Toga Village"
+    ],
     "name:eng_x_preferred":[
         "Tonga"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:unk_x_variant":[
         "Tonga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e6f\u52a0"
     ],
     "qs:name":"Toga Village",
     "qs:photos_9r":0,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":890413107,
-    "wof:lastmodified":1561772682,
+    "wof:lastmodified":1563251369,
     "wof:name":"Toga Village",
     "wof:parent_id":421193671,
     "wof:placetype":"locality",

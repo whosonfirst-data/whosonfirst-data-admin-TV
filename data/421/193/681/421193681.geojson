@@ -35,6 +35,9 @@
     "name:ces_x_preferred":[
         "Nanumea"
     ],
+    "name:dan_x_preferred":[
+        "Nanumea"
+    ],
     "name:deu_x_preferred":[
         "Nanumea-Atoll"
     ],
@@ -65,10 +68,16 @@
     "name:glg_x_preferred":[
         "Atol Nanumea"
     ],
+    "name:glg_x_variant":[
+        "Nanumea"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05e0\u05d5\u05de\u05d0\u05d4"
     ],
     "name:hun_x_preferred":[
+        "Nanumea"
+    ],
+    "name:ind_x_preferred":[
         "Nanumea"
     ],
     "name:ita_x_preferred":[
@@ -90,6 +99,9 @@
         "\u041d\u0430\u043d\u0443\u043c\u0435\u0458\u0430"
     ],
     "name:nld_x_preferred":[
+        "Nanumea"
+    ],
+    "name:nob_x_preferred":[
         "Nanumea"
     ],
     "name:nor_x_preferred":[
@@ -205,7 +217,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1553551419,
+    "wof:lastmodified":1563251359,
     "wof:name":"Nanumea",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

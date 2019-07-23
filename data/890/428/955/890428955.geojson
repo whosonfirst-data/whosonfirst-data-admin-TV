@@ -18,10 +18,16 @@
     "name:ara_x_preferred":[
         "\u0623\u0633\u0627\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Asau Village"
+    ],
     "name:deu_x_preferred":[
         "Asau"
     ],
     "name:eng_x_preferred":[
+        "Asau"
+    ],
+    "name:fin_x_preferred":[
         "Asau"
     ],
     "name:fra_x_preferred":[
@@ -47,6 +53,12 @@
     ],
     "name:spa_x_preferred":[
         "Asau"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0627\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u85a9\u70cf"
     ],
     "qs:name":"Asau Village",
     "qs:photos_9r":0,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":890428955,
-    "wof:lastmodified":1561772683,
+    "wof:lastmodified":1563251373,
     "wof:name":"Asau Village",
     "wof:parent_id":1108826401,
     "wof:placetype":"locality",

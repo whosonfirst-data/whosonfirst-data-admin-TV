@@ -26,11 +26,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u0627\u0641\u0648\u062a\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Funafuti"
+    ],
     "name:aze_x_preferred":[
         "Funafuti"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0442\u043e\u043b \u0424\u0443\u043d\u0430\u0444\u0443\u0446\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09c1\u09a8\u09be\u09ab\u09c1\u09a4\u09bf"
     ],
     "name:bod_x_preferred":[
         "\u0f55\u0f74\u0f0b\u0f53\u0f0b\u0f55\u0f74\u0f0b\u0f4a\u0f72\u0f0d"
@@ -47,6 +53,9 @@
     "name:cat_x_preferred":[
         "Funafuti"
     ],
+    "name:cdo_x_preferred":[
+        "Funafuti"
+    ],
     "name:ces_x_preferred":[
         "Funafuti"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:deu_x_preferred":[
         "Funafuti"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03c5\u03bd\u03b1\u03c6\u03bf\u03cd\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Funafuti"
@@ -89,6 +101,9 @@
     "name:glg_x_preferred":[
         "Funafuti"
     ],
+    "name:hak_x_preferred":[
+        "Funafuti"
+    ],
     "name:hat_x_preferred":[
         "Founafouti"
     ],
@@ -98,6 +113,9 @@
     "name:hif_x_preferred":[
         "Funafuti"
     ],
+    "name:hin_x_preferred":[
+        "\u092b\u0941\u0928\u093e\u092b\u0941\u0924\u093f"
+    ],
     "name:hrv_x_preferred":[
         "Funafuti"
     ],
@@ -106,6 +124,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0556\u0578\u0582\u0576\u0561\u0586\u0578\u0582\u057f\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Funafuti"
     ],
     "name:ile_x_preferred":[
         "Funafuti"
@@ -155,8 +176,14 @@
     "name:mkd_x_preferred":[
         "\u0424\u0443\u043d\u0430\u0444\u0443\u0442\u0438"
     ],
+    "name:mlt_x_preferred":[
+        "Funafuti"
+    ],
     "name:mrj_x_preferred":[
         "\u0424\u0443\u043d\u0430\u0444\u0443\u0442\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Funafuti"
     ],
     "name:nan_x_preferred":[
         "Funafuti"
@@ -182,6 +209,9 @@
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a41\u0a28\u0a3e\u0a2b\u0a3c\u0a41\u0a24\u0a40"
     ],
+    "name:pih_x_preferred":[
+        "Funafuti"
+    ],
     "name:pms_x_preferred":[
         "Funafuti"
     ],
@@ -204,6 +234,9 @@
         "Funafuti"
     ],
     "name:slk_x_preferred":[
+        "Funafuti"
+    ],
+    "name:slv_x_preferred":[
         "Funafuti"
     ],
     "name:sna_x_preferred":[
@@ -238,6 +271,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u0646\u0627\u0641\u0648\u062a\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Funafuti"
     ],
     "name:vep_x_preferred":[
         "Funafuti"
@@ -369,7 +405,7 @@
         }
     ],
     "wof:id":1141909143,
-    "wof:lastmodified":1561772683,
+    "wof:lastmodified":1563251388,
     "wof:name":"Funafuti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

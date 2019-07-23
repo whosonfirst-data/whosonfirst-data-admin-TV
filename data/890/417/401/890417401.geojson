@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Niulakita"
     ],
+    "name:ceb_x_preferred":[
+        "Niulakita Island"
+    ],
     "name:ces_x_preferred":[
         "Niulakita"
     ],
@@ -51,6 +54,9 @@
     "name:hun_x_preferred":[
         "Niulakita"
     ],
+    "name:ind_x_preferred":[
+        "Niulakita"
+    ],
     "name:ita_x_preferred":[
         "Niulakita"
     ],
@@ -62,6 +68,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub2c8\uc6b8\ub77c\ud0a4\ud0c0 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ub2c8\uc6b8\ub77c\ud0a4\ud0c0\uc12c"
     ],
     "name:lit_x_preferred":[
         "Niulakita"
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":890417401,
-    "wof:lastmodified":1561772683,
+    "wof:lastmodified":1563251375,
     "wof:name":"Niulakita",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

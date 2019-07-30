@@ -15,6 +15,72 @@
     "iso:country":"TV",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Makin Island"
+    ],
+    "name:dan_x_preferred":[
+        "Makin"
+    ],
+    "name:deu_x_preferred":[
+        "Makin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03af\u03bd \u039d\u03ae\u03c3\u03bf\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06a9\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Makin"
+    ],
+    "name:fra_x_preferred":[
+        "Makin"
+    ],
+    "name:hrv_x_preferred":[
+        "Makin"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Makin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ad\u30f3\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud0a8 \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Makinas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u043d\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Makin"
+    ],
+    "name:por_x_preferred":[
+        "Makin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Makin"
+    ],
+    "name:spa_x_preferred":[
+        "Makin"
+    ],
+    "name:swe_x_preferred":[
+        "Makin"
+    ],
+    "name:tur_x_preferred":[
+        "Makin Adas\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "Makin"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u91d1\u7fa4\u5cf6"
+    ],
     "qs:name":"Meang Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -44,7 +110,7 @@
         }
     ],
     "wof:id":890418621,
-    "wof:lastmodified":1530305914,
+    "wof:lastmodified":1564177539,
     "wof:name":"Meang Village",
     "wof:parent_id":421203363,
     "wof:placetype":"locality",

@@ -20,6 +20,102 @@
     "lbl:longitude":178.686421,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0456\u0442\u0443\u043f\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:ceb_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:ces_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:deu_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:epo_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:fao_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u062a\u0648\u067e\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:fra_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Vaitupu"
+    ],
+    "name:hun_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:ind_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:ita_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30a4\u30c4\u30d7\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10d8\u10e2\u10e3\u10de\u10e3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc774\ud22c\ud478\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0438\u0442\u0443\u043f\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:nor_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:pol_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:por_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:ron_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0438\u0442\u0443\u043f\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:spa_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:swe_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:szl_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0457\u0442\u0443\u043f\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u06cc\u062a\u0648\u067e\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u4f0a\u5716\u666e"
+    ],
     "reversegeo:latitude":-7.487735,
     "reversegeo:longitude":178.686421,
     "src:geom":"mz",
@@ -43,7 +139,7 @@
         }
     ],
     "wof:id":1108826401,
-    "wof:lastmodified":1553626628,
+    "wof:lastmodified":1564177536,
     "wof:name":"Vaitupu",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

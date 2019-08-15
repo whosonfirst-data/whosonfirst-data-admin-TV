@@ -15,6 +15,9 @@
     "itu:country_code":[
         "688"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TV"
+    ],
     "lbl:latitude":-8.534062,
     "lbl:longitude":179.208387,
     "mps:latitude":-8.534062,
@@ -855,9 +858,6 @@
         }
     ],
     "wof:id":85632607,
-    "wof:lang":[
-        "tvl"
-    ],
     "wof:lang_x_official":[
         "tvl",
         "eng"
@@ -866,7 +866,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1563251357,
+    "wof:lastmodified":1565737726,
     "wof:name":"Tuvalu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

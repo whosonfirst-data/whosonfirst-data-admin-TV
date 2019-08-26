@@ -11,10 +11,13 @@
     "geom:longitude":179.18554,
     "gn:country":"TV",
     "gn:fcode":"PPLX",
-    "gn:pop":343,
+    "gn:population":343,
     "iso:country":"TV",
+    "lbl:bbox":"179.18054,-8.53993,179.19054,-8.52993",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ace_x_preferred":[
         "Funafuti"
     ],
@@ -305,7 +308,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110396,
-        "qs:id":90798,
+        "qs_pg:id":90798,
         "wd:id":"Q34126",
         "wk:page":"Funafuti"
     },
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":890428953,
-    "wof:lastmodified":1563251373,
+    "wof:lastmodified":1566588226,
     "wof:name":"Tekavatoetoe Village",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

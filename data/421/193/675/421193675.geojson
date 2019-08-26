@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-6.108606,
     "lbl:longitude":177.340817,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -155,9 +156,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-01",
+    "src:population_date":"2002-11-01",
     "statoids:area_km":"3",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2002-11-01",
@@ -182,7 +183,7 @@
         "gp:id":24549918,
         "hasc:id":"TV.NT",
         "iso:id":"TV-NIT",
-        "qs:id":59708,
+        "qs_pg:id":59708,
         "wd:id":"Q475219"
     },
     "wof:country":"TV",
@@ -204,11 +205,10 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1565737726,
+    "wof:lastmodified":1566588223,
     "wof:name":"Niutao",
     "wof:parent_id":85632607,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"island council",
     "wof:population":698,
     "wof:population_rank":2,

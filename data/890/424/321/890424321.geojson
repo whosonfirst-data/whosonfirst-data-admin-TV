@@ -11,10 +11,14 @@
     "geom:longitude":179.80785,
     "gn:country":"TV",
     "gn:fcode":"PPL",
-    "gn:pop":188,
+    "gn:population":188,
     "iso:country":"TV",
+    "lbl:bbox":"179.78785,-9.39058,179.82785,-9.35058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "Nuku\u02bbalofa"
     ],
@@ -311,7 +315,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7602153,
-        "qs:id":693643,
+        "qs_pg:id":693643,
         "wk:page":"Nuku\u02bbalofa"
     },
     "wof:country":"TV",
@@ -326,7 +330,7 @@
         }
     ],
     "wof:id":890424321,
-    "wof:lastmodified":1564177538,
+    "wof:lastmodified":1566588226,
     "wof:name":"Nukualofa Village",
     "wof:parent_id":421193677,
     "wof:placetype":"locality",

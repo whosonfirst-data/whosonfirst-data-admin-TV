@@ -11,10 +11,13 @@
     "geom:longitude":179.20094,
     "gn:country":"TV",
     "gn:fcode":"PPLX",
-    "gn:pop":1007,
+    "gn:population":1007,
     "iso:country":"TV",
+    "lbl:bbox":"179.19594,-8.52258,179.20594,-8.51258",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ace_x_preferred":[
         "Funafuti"
     ],
@@ -305,7 +308,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7602508,
-        "qs:id":693734,
+        "qs_pg:id":693734,
         "wd:id":"Q34126",
         "wk:page":"Funafuti"
     },
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":890451543,
-    "wof:lastmodified":1563251384,
+    "wof:lastmodified":1566588228,
     "wof:name":"Fakaifou Village",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

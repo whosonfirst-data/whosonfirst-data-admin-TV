@@ -11,10 +11,13 @@
     "geom:longitude":179.19502,
     "gn:country":"TV",
     "gn:fcode":"PPLX",
-    "gn:pop":540,
+    "gn:population":540,
     "iso:country":"TV",
+    "lbl:bbox":"179.19002,-8.50422,179.20002,-8.49422",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ace_x_preferred":[
         "Funafuti"
     ],
@@ -303,7 +306,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7602537,
-        "qs:id":693739,
+        "qs_pg:id":693739,
         "wd:id":"Q34126",
         "wk:page":"Funafuti"
     },
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":890417921,
-    "wof:lastmodified":1563251378,
+    "wof:lastmodified":1566588227,
     "wof:name":"Teone Village",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,12 @@
     "geom:longitude":179.149859,
     "gn:country":"TV",
     "gn:fcode":"ATOL",
-    "gn:pop":4492,
+    "gn:population":4492,
     "iso:country":"TV",
     "lbl:latitude":-8.481921,
     "lbl:longitude":179.158348,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -287,7 +289,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u043d\u0430\u0444\u0443\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "RECUPERATE WW2"
     ],
     "name:urd_x_preferred":[
@@ -419,9 +421,11 @@
     "wof:concordances":{
         "gn:id":2110394,
         "gp:id":12517924,
-        "qs:id":90797,
         "qs_pg:id":90796,
         "wd:id":"Q34126"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":90797
     },
     "wof:country":"TV",
     "wof:created":1469051783,
@@ -435,7 +439,7 @@
         }
     ],
     "wof:id":890428951,
-    "wof:lastmodified":1563251374,
+    "wof:lastmodified":1566588226,
     "wof:name":"Funafuti Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":179.1941,
     "gn:country":"TV",
     "gn:fcode":"PPLX",
-    "gn:pop":516,
+    "gn:population":516,
     "iso:country":"TV",
+    "lbl:bbox":"179.1891,-8.53044,179.1991,-8.52044",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u064a\u0627\u0643\u0648"
     ],
@@ -107,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7601977,
-        "qs:id":693625,
+        "qs_pg:id":693625,
         "wd:id":"Q248201",
         "wk:page":"Vaiaku"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890417399,
-    "wof:lastmodified":1563251374,
+    "wof:lastmodified":1566588226,
     "wof:name":"Vaiaku Village",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

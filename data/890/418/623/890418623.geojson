@@ -11,10 +11,14 @@
     "geom:longitude":178.69256,
     "gn:country":"TV",
     "gn:fcode":"PPL",
-    "gn:pop":506,
+    "gn:population":506,
     "iso:country":"TV",
+    "lbl:bbox":"178.67256,-7.50996,178.71256,-7.46996",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Motufoua School",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -28,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7602271,
-        "qs:id":693653
+        "qs_pg:id":693653
     },
     "wof:country":"TV",
     "wof:created":1469051255,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890418623,
-    "wof:lastmodified":1530305916,
+    "wof:lastmodified":1566588228,
     "wof:name":"Motufoua School",
     "wof:parent_id":1108826401,
     "wof:placetype":"locality",

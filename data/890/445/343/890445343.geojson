@@ -11,12 +11,15 @@
     "geom:longitude":176.32385,
     "gn:country":"TV",
     "gn:fcode":"ISL",
-    "gn:pop":589,
+    "gn:population":589,
     "iso:country":"TV",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Nanumanaga"
     ],
     "qs:name":"Nanumanga Island",
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110346,
-        "qs:id":572079
+        "qs_pg:id":572079
     },
     "wof:country":"TV",
     "wof:created":1469052506,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890445343,
-    "wof:lastmodified":1530305915,
+    "wof:lastmodified":1566588228,
     "wof:name":"Nanumanga Island",
     "wof:parent_id":421193671,
     "wof:placetype":"locality",

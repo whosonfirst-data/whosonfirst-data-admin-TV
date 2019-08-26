@@ -11,10 +11,14 @@
     "geom:longitude":178.68016,
     "gn:country":"TV",
     "gn:fcode":"PPL",
-    "gn:pop":219,
+    "gn:population":219,
     "iso:country":"TV",
+    "lbl:bbox":"178.66016,-7.51026,178.70016,-7.47026",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u0627\u0648"
     ],
@@ -74,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110415,
-        "qs:id":90799,
+        "qs_pg:id":90799,
         "wd:id":"Q2481883",
         "wk:page":"Asau, Samoa"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890428955,
-    "wof:lastmodified":1563251373,
+    "wof:lastmodified":1566588226,
     "wof:name":"Asau Village",
     "wof:parent_id":1108826401,
     "wof:placetype":"locality",

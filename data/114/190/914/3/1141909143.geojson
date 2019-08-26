@@ -10,10 +10,14 @@
     "geom:latitude":-8.516652,
     "geom:longitude":179.216647,
     "iso:country":"TV",
+    "lbl:bbox":"179.196647094,-8.53665199904,179.236647094,-8.49665199904",
     "lbl:latitude":-8.516652,
     "lbl:longitude":179.216647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Funafuti"
     ],
@@ -405,7 +409,7 @@
         }
     ],
     "wof:id":1141909143,
-    "wof:lastmodified":1563251388,
+    "wof:lastmodified":1566588229,
     "wof:name":"Funafuti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

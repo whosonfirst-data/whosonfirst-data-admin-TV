@@ -11,10 +11,14 @@
     "geom:longitude":178.31351,
     "gn:country":"TV",
     "gn:fcode":"PPL",
-    "gn:pop":586,
+    "gn:population":586,
     "iso:country":"TV",
+    "lbl:bbox":"178.29351,-8.04731,178.33351,-8.00731",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Savave"
     ],
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":7602373,
         "gp:id":1064289,
-        "qs:id":693656,
+        "qs_pg:id":693656,
         "wd:id":"Q3293321",
         "wk:page":"Savave"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890418625,
-    "wof:lastmodified":1563251379,
+    "wof:lastmodified":1566588227,
     "wof:name":"Savave Village",
     "wof:parent_id":421193679,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":176.31472,
     "gn:country":"TV",
     "gn:fcode":"PPL",
-    "gn:pop":308,
+    "gn:population":308,
     "iso:country":"TV",
+    "lbl:bbox":"176.29472,-6.30764,176.33472,-6.26764",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Toga Village"
     ],
@@ -36,9 +40,6 @@
     "name:spa_x_preferred":[
         "Tonga"
     ],
-    "name:unk_x_variant":[
-        "Tonga"
-    ],
     "name:zho_x_preferred":[
         "\u6e6f\u52a0"
     ],
@@ -56,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110302,
-        "qs:id":572069,
+        "qs_pg:id":572069,
         "wd:id":"Q3394651",
         "wk:page":"Toga, Toyama"
     },
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":890413107,
-    "wof:lastmodified":1563251369,
+    "wof:lastmodified":1566588225,
     "wof:name":"Toga Village",
     "wof:parent_id":421193671,
     "wof:placetype":"locality",

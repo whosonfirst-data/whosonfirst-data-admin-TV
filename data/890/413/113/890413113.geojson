@@ -11,12 +11,15 @@
     "geom:longitude":178.36667,
     "gn:country":"TV",
     "gn:fcode":"ATOL",
-    "gn:pop":586,
+    "gn:population":586,
     "iso:country":"TV",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Peyster\u2019s Group"
     ],
     "qs:name":"Nukufetau Island",
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":2110338,
         "gp:id":1064289,
-        "qs:id":572072
+        "qs_pg:id":572072
     },
     "wof:country":"TV",
     "wof:created":1469050989,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":890413113,
-    "wof:lastmodified":1505343412,
+    "wof:lastmodified":1566588225,
     "wof:name":"Nukufetau Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":179.83864,
     "gn:country":"TV",
     "gn:fcode":"ATOL",
-    "gn:pop":393,
+    "gn:population":393,
     "iso:country":"TV",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u0442\u043e\u043b \u041d\u0443\u043a\u0443\u043b\u0430\u044d\u043b\u0430\u044d"
     ],
@@ -112,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u043a\u0443\u043b\u0430\u0435\u043b\u0430\u0435"
     ],
-    "name:unk_x_variant":[
-        "Nukulaelae"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u06a9\u0648\u0644\u0627\u06d2\u0644\u0627\u06d2"
     ],
@@ -132,7 +132,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110337,
-        "qs:id":572071,
+        "qs_pg:id":572071,
         "wd:id":"Q128654"
     },
     "wof:country":"TV",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":890413111,
-    "wof:lastmodified":1563251368,
+    "wof:lastmodified":1566588225,
     "wof:name":"Nukulaelae Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

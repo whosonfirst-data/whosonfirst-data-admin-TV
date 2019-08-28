@@ -11,10 +11,14 @@
     "geom:longitude":177.33393,
     "gn:country":"TV",
     "gn:fcode":"PPL",
-    "gn:pop":224,
+    "gn:population":224,
     "iso:country":"TV",
+    "lbl:bbox":"177.31393,-6.12819,177.35393,-6.08819",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041d\u0456\u045e\u0442\u0430\u043e"
     ],
@@ -128,7 +132,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110377,
-        "qs:id":572082,
+        "qs_pg:id":572082,
         "wd:id":"Q475219",
         "wk:page":"Niutao"
     },
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":890422833,
-    "wof:lastmodified":1563251367,
+    "wof:lastmodified":1566588225,
     "wof:name":"Kulia Village",
     "wof:parent_id":421193675,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":178.66748,
     "gn:country":"TV",
     "gn:fcode":"PPL",
-    "gn:pop":52,
+    "gn:population":52,
     "iso:country":"TV",
+    "lbl:bbox":"178.64748,-7.48168,178.68748,-7.44168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Temotu"
     ],
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110349,
-        "qs:id":572080,
+        "qs_pg:id":572080,
         "wd:id":"Q16901401",
         "wk:page":"Temotu, Tuvalu"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890445345,
-    "wof:lastmodified":1563251382,
+    "wof:lastmodified":1566588228,
     "wof:name":"Temotu Village",
     "wof:parent_id":1108826401,
     "wof:placetype":"locality",

@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-8.534062,
     "lbl:longitude":179.208387,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-8.534062,
     "mps:longitude":179.208387,
     "mz:hierarchy_label":1,
@@ -797,7 +799,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"688",
     "statoids:ds":"TV",
@@ -817,7 +819,6 @@
     "wd:longitude":178.005556,
     "wd:population":9876,
     "wd:wordcount":17714,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583
     ],
@@ -842,7 +843,7 @@
         "mzb:id":"tuvalu",
         "ne:adm0_a3":"TUV",
         "nyt:id":"50533509955312517121",
-        "qs:id":1087776,
+        "qs_pg:id":1087776,
         "uncrt:id":"TV",
         "wd:id":"Q672",
         "wk:page":"Tuvalu",
@@ -866,7 +867,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1565737726,
+    "wof:lastmodified":1566588223,
     "wof:name":"Tuvalu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

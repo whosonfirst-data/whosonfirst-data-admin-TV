@@ -11,10 +11,14 @@
     "geom:longitude":177.15025,
     "gn:country":"TV",
     "gn:fcode":"PPL",
-    "gn:pop":127,
+    "gn:population":127,
     "iso:country":"TV",
+    "lbl:bbox":"177.13025,-7.22592,177.17025,-7.18592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Makin Island"
     ],
@@ -95,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7602220,
-        "qs:id":693650,
+        "qs_pg:id":693650,
         "wk:page":"Makin (islands)"
     },
     "wof:country":"TV",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890418621,
-    "wof:lastmodified":1564177539,
+    "wof:lastmodified":1566588227,
     "wof:name":"Meang Village",
     "wof:parent_id":421203363,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":176.11515,
     "gn:country":"TV",
     "gn:fcode":"PPL",
-    "gn:pop":215,
+    "gn:population":215,
     "iso:country":"TV",
+    "lbl:bbox":"176.09515,-5.69398,176.13515,-5.65398",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Gmoana in Tuvalu"
     ],
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7602166,
-        "qs:id":693645,
+        "qs_pg:id":693645,
         "wd:id":"Q610946",
         "wk:page":"List of villages and neighbourhoods in Tuvalu"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890418619,
-    "wof:lastmodified":1563251379,
+    "wof:lastmodified":1566588227,
     "wof:name":"Lolua Village",
     "wof:parent_id":421193681,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-8.065946,
     "lbl:longitude":178.37589,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -146,9 +147,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-01",
+    "src:population_date":"2002-11-01",
     "statoids:area_km":"3",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2002-11-01",
@@ -173,7 +174,7 @@
         "gp:id":24549922,
         "hasc:id":"TV.NF",
         "iso:id":"TV-NKF",
-        "qs:id":59711,
+        "qs_pg:id":59711,
         "wd:id":"Q745924",
         "wk:page":"Nukufetau"
     },
@@ -196,11 +197,10 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1565737727,
+    "wof:lastmodified":1566588224,
     "wof:name":"Nukufetau",
     "wof:parent_id":85632607,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"island council",
     "wof:population":586,
     "wof:population_rank":2,

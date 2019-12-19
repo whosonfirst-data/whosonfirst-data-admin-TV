@@ -144,7 +144,15 @@
         }
     ],
     "wof:id":1108826401,
-    "wof:lastmodified":1566588223,
+    "wof:lang_x_official":[
+        "tvl",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "tvl",
+        "eng"
+    ],
+    "wof:lastmodified":1576795408,
     "wof:name":"Vaitupu",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

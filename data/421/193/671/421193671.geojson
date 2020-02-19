@@ -186,6 +186,9 @@
     },
     "wof:country":"TV",
     "wof:created":1459009779,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57b73e0af041aeb22b02a67069586020",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1566588224,
+    "wof:lastmodified":1582145339,
     "wof:name":"Nanumanga",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

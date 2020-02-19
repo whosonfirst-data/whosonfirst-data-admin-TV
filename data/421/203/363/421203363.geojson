@@ -176,6 +176,9 @@
     },
     "wof:country":"TV",
     "wof:created":1459010148,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"da1d70169c8094d879de376f8c2e2c8d",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1566588225,
+    "wof:lastmodified":1582145339,
     "wof:name":"Nui",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

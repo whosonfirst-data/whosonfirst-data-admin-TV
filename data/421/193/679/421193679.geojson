@@ -180,6 +180,9 @@
     },
     "wof:country":"TV",
     "wof:created":1459009779,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"faf1d318b5c7c80ef95b1dbd0ef065da",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1566588224,
+    "wof:lastmodified":1582145339,
     "wof:name":"Nukufetau",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

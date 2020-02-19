@@ -189,6 +189,9 @@
     },
     "wof:country":"TV",
     "wof:created":1459009779,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e78f3ab26420e4781ac5206810a96926",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1566588224,
+    "wof:lastmodified":1582145339,
     "wof:name":"Nukulaelae",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

@@ -851,6 +851,11 @@
     },
     "wof:country":"TV",
     "wof:country_alpha3":"TUV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"7a291813bd7feeb20c09ad189896aab0",
     "wof:hierarchy":[
         {
@@ -867,7 +872,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1566588223,
+    "wof:lastmodified":1582145338,
     "wof:name":"Tuvalu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

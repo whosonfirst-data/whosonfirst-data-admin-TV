@@ -375,6 +375,9 @@
     },
     "wof:country":"TV",
     "wof:created":1459010186,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ec1cdaa409148177aecaf3335a1974b",
     "wof:hierarchy":[
         {
@@ -392,7 +395,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1566588224,
+    "wof:lastmodified":1582145339,
     "wof:name":"Funafuti",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

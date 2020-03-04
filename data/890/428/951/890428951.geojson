@@ -412,7 +412,8 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "unknown"
+        "unknown",
+        "naturalearth"
     ],
     "src:population":"geonames",
     "wof:belongsto":[],
@@ -429,6 +430,11 @@
     },
     "wof:country":"TV",
     "wof:created":1469051783,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "unknown",
+        "naturalearth"
+    ],
     "wof:geomhash":"1ec1cdaa409148177aecaf3335a1974b",
     "wof:hierarchy":[
         {
@@ -439,7 +445,7 @@
         }
     ],
     "wof:id":890428951,
-    "wof:lastmodified":1566588226,
+    "wof:lastmodified":1582145339,
     "wof:name":"Funafuti Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

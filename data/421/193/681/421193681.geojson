@@ -204,6 +204,9 @@
     },
     "wof:country":"TV",
     "wof:created":1459009779,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f48ed0233e7d0743b1c7ed7a55b9119c",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1566588224,
+    "wof:lastmodified":1582145339,
     "wof:name":"Nanumea",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

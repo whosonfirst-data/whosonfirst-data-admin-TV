@@ -828,9 +828,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Tuvalu",
-        "digitalenvoy:country_code":[
-            798
-        ],
+        "digitalenvoy:country_code":798,
         "fb:id":"en.tuvalu",
         "fifa:id":"TUV",
         "fips:code":"TV",
@@ -875,7 +873,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1583529235,
+    "wof:lastmodified":1583797444,
     "wof:name":"Tuvalu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

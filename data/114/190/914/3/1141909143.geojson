@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"179.216647094,-8.51665199904,179.216647094,-8.51665199904",
+    "geom:bbox":"179.216647,-8.516652,179.216647,-8.516652",
     "geom:latitude":-8.516652,
     "geom:longitude":179.216647,
     "iso:country":"TV",
@@ -274,6 +274,9 @@
         "\u0424\u0443\u043d\u0430\u0444\u0443\u0442\u0456"
     ],
     "name:urd_x_preferred":[
+        "\u0641\u0648\u0646\u0627\u0641\u0648\u0679\u06cc"
+    ],
+    "name:urd_x_variant":[
         "\u0641\u0648\u0646\u0627\u0641\u0648\u062a\u06cc"
     ],
     "name:uzb_x_preferred":[
@@ -283,6 +286,9 @@
         "Funafuti"
     ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Funafuti"
+    ],
+    "name:vie_x_variant":[
         "Funafuti"
     ],
     "name:war_x_preferred":[
@@ -399,7 +405,7 @@
     },
     "wof:country":"TV",
     "wof:created":1499131032,
-    "wof:geomhash":"01539a500d098e6c30145d98796a7035",
+    "wof:geomhash":"369dec36f2e63a3ca7687fb04b3c1fbb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -409,7 +415,7 @@
         }
     ],
     "wof:id":1141909143,
-    "wof:lastmodified":1566588229,
+    "wof:lastmodified":1636500629,
     "wof:name":"Funafuti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -419,10 +425,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    179.21664709402887,
-    -8.51665199904107,
-    179.21664709402887,
-    -8.51665199904107
+    179.216647,
+    -8.516652,
+    179.216647,
+    -8.516652
 ],
-  "geometry": {"coordinates":[179.21664709402887,-8.51665199904107],"type":"Point"}
+  "geometry": {"coordinates":[179.21664699999999,-8.516652],"type":"Point"}
 }

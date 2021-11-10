@@ -704,8 +704,14 @@
     "name:zha_x_preferred":[
         "Tuvalu"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u56fe\u74e6\u5362"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Tuvalu"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5410\u74e6\u9b6f"
     ],
     "name:zho_x_preferred":[
         "\u5716\u74e6\u76e7"
@@ -938,7 +944,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1617827485,
+    "wof:lastmodified":1636500628,
     "wof:name":"Tuvalu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

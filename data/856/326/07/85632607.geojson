@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.0,
+    "name:abk_x_preferred":[
+        "\u0422\u0443\u0432\u0430\u043b\u0443"
+    ],
     "name:ace_x_preferred":[
         "Tuvalu"
     ],
@@ -43,8 +46,14 @@
     "name:amh_x_preferred":[
         "\u1271\u126b\u1209"
     ],
+    "name:ami_x_preferred":[
+        "Tuvalu"
+    ],
     "name:ang_x_preferred":[
         "Tufalu"
+    ],
+    "name:anp_x_preferred":[
+        "\u091f\u0941\u0935\u093e\u0932\u0941"
     ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u0641\u0627\u0644\u0648"
@@ -52,11 +61,17 @@
     "name:arg_x_preferred":[
         "Tuvalu"
     ],
+    "name:ary_x_preferred":[
+        "\u062a\u0648\u06a4\u0627\u0644\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u062a\u0648\u06a4\u0627\u0644\u0648"
     ],
     "name:ast_x_preferred":[
         "Tuvalu"
+    ],
+    "name:avk_x_preferred":[
+        "Tuvalua"
     ],
     "name:azb_x_preferred":[
         "\u062a\u0648\u0648\u0627\u0644\u0648"
@@ -70,6 +85,9 @@
     "name:bam_x_preferred":[
         "Tuvalu"
     ],
+    "name:ban_x_preferred":[
+        "Tuvalu"
+    ],
     "name:bcl_x_preferred":[
         "Tubalu"
     ],
@@ -78,6 +96,9 @@
     ],
     "name:ben_x_preferred":[
         "\u099f\u09c1\u09ad\u09be\u09b2\u09c1"
+    ],
+    "name:bis_x_preferred":[
+        "Tuvalu"
     ],
     "name:bod_x_preferred":[
         "\u0f4f\u0f74\u0f0b\u0f5d\u0f0b\u0f63\u0f74\u0f0d"
@@ -115,10 +136,22 @@
     "name:che_x_preferred":[
         "\u0422\u0443\u0432\u0430\u043b\u0443"
     ],
+    "name:chr_x_preferred":[
+        "\u13da\u13e9\u13b7"
+    ],
+    "name:chv_x_preferred":[
+        "\u0422\u0443\u0432\u0430\u043b\u0443"
+    ],
+    "name:chy_x_preferred":[
+        "Tuvalu"
+    ],
     "name:ckb_x_preferred":[
         "\u062a\u0648\u0648\u06a4\u0627\u0644\u0648\u0648"
     ],
     "name:cor_x_preferred":[
+        "Tuvalu"
+    ],
+    "name:cos_x_preferred":[
         "Tuvalu"
     ],
     "name:crh_x_preferred":[
@@ -126,6 +159,9 @@
     ],
     "name:cym_x_preferred":[
         "Twfalw"
+    ],
+    "name:dag_x_preferred":[
+        "Tuvalu"
     ],
     "name:dan_x_preferred":[
         "Tuvalu"
@@ -200,13 +236,22 @@
     "name:frp_x_preferred":[
         "Tuvalu"
     ],
+    "name:frr_x_preferred":[
+        "Tuwaalu"
+    ],
     "name:fry_x_preferred":[
         "T\u00fbval\u00fb"
     ],
     "name:ful_x_preferred":[
         "Tuwaluu"
     ],
+    "name:ful_x_variant":[
+        "Tuwalu"
+    ],
     "name:gag_x_preferred":[
+        "Tuvalu"
+    ],
+    "name:gcr_x_preferred":[
         "Tuvalu"
     ],
     "name:gla_x_preferred":[
@@ -216,7 +261,8 @@
         "Tuvalu"
     ],
     "name:gle_x_variant":[
-        "T\u00fav\u00e1l\u00fa"
+        "T\u00fav\u00e1l\u00fa",
+        "T\u00faval\u00fa"
     ],
     "name:glg_x_preferred":[
         "Tuvalu"
@@ -226,6 +272,12 @@
     ],
     "name:gom_x_preferred":[
         "\u091f\u0941\u0935\u093e\u0932\u0941"
+    ],
+    "name:gpe_x_preferred":[
+        "Tuvalu"
+    ],
+    "name:grn_x_preferred":[
+        "Tuv\u00e1lu"
     ],
     "name:gsw_x_preferred":[
         "Tuvalu"
@@ -244,6 +296,9 @@
     ],
     "name:hau_x_preferred":[
         "Tubalu"
+    ],
+    "name:hau_x_variant":[
+        "Tuvalu"
     ],
     "name:hbs_x_preferred":[
         "Tuvalu"
@@ -386,6 +441,9 @@
     "name:lit_x_preferred":[
         "Tuvalu"
     ],
+    "name:lld_x_preferred":[
+        "Tuvalu"
+    ],
     "name:lmo_x_preferred":[
         "Tuvalu"
     ],
@@ -410,17 +468,32 @@
     "name:mar_x_variant":[
         "\u091f\u0941\u0935\u093e\u0932\u0941"
     ],
+    "name:mhr_x_preferred":[
+        "\u0422\u0443\u0432\u0430\u043b\u0443"
+    ],
+    "name:min_x_preferred":[
+        "Tuvalu"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u0443\u0432\u0430\u043b\u0443"
     ],
     "name:mlg_x_preferred":[
         "Toval\u00f2"
     ],
+    "name:mlg_x_variant":[
+        "Tovalo"
+    ],
     "name:mlt_x_preferred":[
         "Tuvalu"
     ],
+    "name:mni_x_preferred":[
+        "\uabc7\uabe8\uabda\uabe5\uabc2\uabe8"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u0443\u0432\u0430\u043b\u0443"
+    ],
+    "name:mri_x_preferred":[
+        "T\u016bwaru"
     ],
     "name:mrj_x_preferred":[
         "\u0422\u0443\u0432\u0430\u043b\u0443"
@@ -515,6 +588,9 @@
     "name:pus_x_preferred":[
         "\u062a\u0648\u0648\u0627\u0644\u0648"
     ],
+    "name:pwn_x_preferred":[
+        "Tuvalu"
+    ],
     "name:que_x_preferred":[
         "Tuwalu"
     ],
@@ -548,6 +624,9 @@
     "name:sgs_x_preferred":[
         "Tuvalu"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1011\u1030\u1038\u101d\u1083\u1087\u101c\u1030\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dd4\u0dc0\u0dcf\u0dbd\u0dd4"
     ],
@@ -563,7 +642,13 @@
     "name:sme_x_preferred":[
         "Tuvalu"
     ],
+    "name:smn_x_preferred":[
+        "Tuvalu"
+    ],
     "name:smo_x_preferred":[
+        "Tuvalu"
+    ],
+    "name:sms_x_preferred":[
         "Tuvalu"
     ],
     "name:sna_x_preferred":[
@@ -581,6 +666,9 @@
     "name:sqi_x_preferred":[
         "Tuvalu"
     ],
+    "name:srd_x_preferred":[
+        "Tuvalu"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u0432\u0430\u043b\u0443"
     ],
@@ -596,6 +684,9 @@
     "name:szl_x_preferred":[
         "Tuvalu"
     ],
+    "name:szy_x_preferred":[
+        "Tuvalu"
+    ],
     "name:tah_x_preferred":[
         "Tuvaru"
     ],
@@ -607,6 +698,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0422\u0443\u0432\u0430\u043b\u0443"
+    ],
+    "name:tay_x_preferred":[
+        "Tuvalu"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c41\u0c35\u0c3e\u0c32\u0c41"
@@ -626,10 +720,16 @@
     "name:tir_x_preferred":[
         "\u1271\u126b\u1209"
     ],
+    "name:tok_x_preferred":[
+        "ma Tuwalu"
+    ],
     "name:ton_x_preferred":[
         "T\u016bvalu"
     ],
     "name:tpi_x_preferred":[
+        "Tuvalu"
+    ],
+    "name:trv_x_preferred":[
         "Tuvalu"
     ],
     "name:tuk_x_preferred":[
@@ -644,6 +744,9 @@
     "name:twi_x_preferred":[
         "Tuvalu"
     ],
+    "name:udm_x_preferred":[
+        "\u0422\u0443\u0432\u0430\u043b\u0443"
+    ],
     "name:uig_x_preferred":[
         "Tuwalu"
     ],
@@ -657,6 +760,9 @@
         "\u0679\u0648\u0648\u0627\u0644\u0648"
     ],
     "name:uzb_x_preferred":[
+        "Tuvalu"
+    ],
+    "name:vec_x_preferred":[
         "Tuvalu"
     ],
     "name:vep_x_preferred":[
@@ -944,7 +1050,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1636500628,
+    "wof:lastmodified":1690875661,
     "wof:name":"Tuvalu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

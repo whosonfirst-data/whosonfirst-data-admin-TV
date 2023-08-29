@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Nukulaelae"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0442\u043e\u043b \u041d\u0443\u043a\u0443\u043b\u0430\u044d\u043b\u0430\u044d"
     ],
@@ -112,6 +115,9 @@
     "name:swe_x_preferred":[
         "Nukulaelae"
     ],
+    "name:tur_x_preferred":[
+        "Nukulaelae"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0443\u043a\u0443\u043b\u0430\u0435\u043b\u0430\u0435"
     ],
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":890413111,
-    "wof:lastmodified":1566588225,
+    "wof:lastmodified":1690875664,
     "wof:name":"Nukulaelae Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -28,7 +28,13 @@
     "name:fra_x_preferred":[
         "Temotu"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30e2\u30c4"
+    ],
     "name:pol_x_preferred":[
+        "Temotu"
+    ],
+    "name:por_x_preferred":[
         "Temotu"
     ],
     "qs:name":"Temotu Village",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890445345,
-    "wof:lastmodified":1566588228,
+    "wof:lastmodified":1690875668,
     "wof:name":"Temotu Village",
     "wof:parent_id":1108826401,
     "wof:placetype":"locality",

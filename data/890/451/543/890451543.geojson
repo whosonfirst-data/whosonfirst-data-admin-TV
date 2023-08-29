@@ -30,10 +30,16 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u0627\u0641\u0648\u062a\u064a"
     ],
+    "name:ary_x_preferred":[
+        "\u0641\u0648\u0646\u0627\u0641\u0648\u062a\u064a"
+    ],
     "name:ast_x_preferred":[
         "Funafuti"
     ],
     "name:aze_x_preferred":[
+        "Funafuti"
+    ],
+    "name:ban_x_preferred":[
         "Funafuti"
     ],
     "name:bel_x_preferred":[
@@ -41,6 +47,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u09a8\u09be\u09ab\u09c1\u09a4\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09ab\u09c1\u09a8\u09be\u09ab\u09c1\u099f\u09bf"
     ],
     "name:bod_x_preferred":[
         "\u0f55\u0f74\u0f0b\u0f53\u0f0b\u0f55\u0f74\u0f0b\u0f4a\u0f72\u0f0d"
@@ -58,6 +67,9 @@
         "Funafuti"
     ],
     "name:cdo_x_preferred":[
+        "Funafuti"
+    ],
+    "name:ceb_x_preferred":[
         "Funafuti"
     ],
     "name:ces_x_preferred":[
@@ -102,6 +114,9 @@
     "name:gla_x_preferred":[
         "Funafuti"
     ],
+    "name:gle_x_preferred":[
+        "Funafuti"
+    ],
     "name:glg_x_preferred":[
         "Funafuti"
     ],
@@ -110,6 +125,9 @@
     ],
     "name:hat_x_preferred":[
         "Founafouti"
+    ],
+    "name:hau_x_preferred":[
+        "Funafuti"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e0\u05d0\u05e4\u05d5\u05d8\u05d9"
@@ -165,6 +183,9 @@
     "name:lav_x_preferred":[
         "Funafuti"
     ],
+    "name:lij_x_preferred":[
+        "Funafuti"
+    ],
     "name:lit_x_preferred":[
         "Funafutis"
     ],
@@ -173,6 +194,9 @@
     ],
     "name:ltz_x_preferred":[
         "Funafuti"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2b\u0d4d\u0d2f\u0d42\u0d28\u0d2b\u0d4d\u0d2f\u0d42\u0d1f\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u092b\u0941\u0928\u093e\u092b\u0941\u0924\u0940"
@@ -225,6 +249,9 @@
     "name:por_x_preferred":[
         "Funafuti"
     ],
+    "name:pus_x_preferred":[
+        "\u0641\u0648\u0646\u0627\u0641\u0648\u062a\u064a"
+    ],
     "name:ron_x_preferred":[
         "Funafuti"
     ],
@@ -252,8 +279,14 @@
     "name:sqi_x_preferred":[
         "Funafuti"
     ],
+    "name:srd_x_preferred":[
+        "Funafuti"
+    ],
     "name:srp_x_preferred":[
         "\u0424\u0443\u043d\u0430\u0444\u0443\u0442\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Funafuti"
     ],
     "name:swe_x_preferred":[
         "Funafuti"
@@ -261,11 +294,17 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0ba9\u0bbe\u0baa\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf"
     ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u043d\u0430\u0444\u0443\u0442\u0438"
+    ],
     "name:tgl_x_preferred":[
         "Funafuti"
     ],
     "name:tha_x_preferred":[
         "\u0e1f\u0e39\u0e19\u0e30\u0e1f\u0e39\u0e15\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e39\u0e19\u0e32\u0e1f\u0e39\u0e15\u0e35"
     ],
     "name:tur_x_preferred":[
         "Funafuti"
@@ -287,6 +326,12 @@
     ],
     "name:war_x_preferred":[
         "Funafuti"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5bcc\u7eb3\u5bcc\u63d0"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e4\u10e3\u10dc\u10d0\u10e4\u10e3\u10e2\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5bcc\u7d0d\u5bcc\u63d0"
@@ -325,7 +370,7 @@
         }
     ],
     "wof:id":890451543,
-    "wof:lastmodified":1566588228,
+    "wof:lastmodified":1690875668,
     "wof:name":"Fakaifou Village",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

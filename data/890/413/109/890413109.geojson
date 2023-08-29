@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Tanrake"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0646\u0631\u0627\u06a9\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Tanrake"
+    ],
     "name:ita_x_preferred":[
         "Tanrake"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:und_x_variant":[
         "Tapotali"
+    ],
+    "name:zho_x_preferred":[
+        "\u5766\u62c9\u51ef"
     ],
     "qs:name":"Tanrake Village",
     "qs:photos_9r":0,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":890413109,
-    "wof:lastmodified":1566588225,
+    "wof:lastmodified":1690875664,
     "wof:name":"Tanrake Village",
     "wof:parent_id":421203363,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fas_x_preferred":[
         "\u0641\u0646\u06af\u0648\u0622"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30f3\u30ac\u30a6\u30a2"
+    ],
     "name:lit_x_preferred":[
         "Fangaua"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:spa_x_preferred":[
         "Fangaua"
+    ],
+    "name:tur_x_preferred":[
+        "Fangaua"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b9\u963f\u74e6"
     ],
     "qs:name":"Pepesala Village",
     "qs:photos_9r":0,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":890424323,
-    "wof:lastmodified":1566588226,
+    "wof:lastmodified":1690875665,
     "wof:name":"Pepesala Village",
     "wof:parent_id":421193677,
     "wof:placetype":"locality",

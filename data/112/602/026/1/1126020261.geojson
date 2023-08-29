@@ -34,6 +34,9 @@
     "name:fin_x_preferred":[
         "Tokelau"
     ],
+    "name:fra_x_preferred":[
+        "Tokelau"
+    ],
     "name:nld_x_preferred":[
         "Tokelau"
     ],
@@ -41,6 +44,9 @@
         "Tokelau"
     ],
     "name:spa_x_preferred":[
+        "Tokelau"
+    ],
+    "name:tur_x_preferred":[
         "Tokelau"
     ],
     "qs_pg:aaroncc":"TV",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1126020261,
-    "wof:lastmodified":1566588229,
+    "wof:lastmodified":1690875668,
     "wof:name":"Tokelau Village",
     "wof:parent_id":421193671,
     "wof:placetype":"locality",

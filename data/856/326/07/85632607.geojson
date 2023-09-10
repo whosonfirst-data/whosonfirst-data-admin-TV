@@ -18,12 +18,12 @@
     "label:eng_x_preferred_shortcode":[
         "TV"
     ],
-    "lbl:latitude":-8.534062,
-    "lbl:longitude":179.208387,
+    "lbl:latitude":-9.426841,
+    "lbl:longitude":179.847745,
     "lbl:max_zoom":8.0,
     "lbl:min_zoom":4.0,
-    "mps:latitude":-8.534062,
-    "mps:longitude":179.208387,
+    "mps:latitude":-9.426841,
+    "mps:longitude":179.847745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":10.0,
@@ -1050,7 +1050,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1690875661,
+    "wof:lastmodified":1694320549,
     "wof:name":"Tuvalu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

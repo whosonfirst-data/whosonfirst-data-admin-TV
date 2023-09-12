@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000668,
-    "geom:area_square_m":8184868.313468,
+    "geom:area_square_m":8184868.313451,
     "geom:bbox":"178.661950093,-7.49968316119,178.698250752,-7.45629431719",
     "geom:latitude":-7.47965,
     "geom:longitude":178.680096,
@@ -38,6 +38,9 @@
         "Vaitupu"
     ],
     "name:deu_x_preferred":[
+        "Vaitupu"
+    ],
+    "name:eng_x_preferred":[
         "Vaitupu"
     ],
     "name:epo_x_preferred":[
@@ -135,7 +138,7 @@
         "hasc:id":"TV.VI"
     },
     "wof:country":"TV",
-    "wof:geomhash":"d8f81b436b75682f21acdd4c7777eb79",
+    "wof:geomhash":"4f2deafb5ee2e024ceaf25f4973e3d34",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -152,7 +155,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1576795408,
+    "wof:lastmodified":1694493129,
     "wof:name":"Vaitupu",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

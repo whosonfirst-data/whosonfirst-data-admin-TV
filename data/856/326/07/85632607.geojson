@@ -980,7 +980,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"688",
     "statoids:ds":"TV",
     "statoids:fifa":"TUV",
@@ -1054,7 +1054,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1694492215,
+    "wof:lastmodified":1694639668,
     "wof:name":"Tuvalu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

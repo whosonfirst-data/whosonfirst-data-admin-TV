@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":35,
     "iso:country":"TV",
+    "label:eng_x_preferred_longname":[
+        "Niulakita District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -162,7 +168,7 @@
     },
     "wof:country":"TV",
     "wof:created":1469051200,
-    "wof:geomhash":"f4ad1d806e7b64b1ac3271e93a4c61f9",
+    "wof:geomhash":"800c902087ac32eec11ab37bc0885896",
     "wof:hierarchy":[
         {
             "country_id":85632607,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890417405,
-    "wof:lastmodified":1690875666,
+    "wof:lastmodified":1694497771,
     "wof:name":"Niulakita",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -1018,6 +1018,7 @@
         "hasc:id":"TV",
         "icao:code":"T2",
         "ioc:id":"TUV",
+        "iso:code":"TV",
         "itu:id":"TUV",
         "m49:code":"798",
         "marc:id":"tv",
@@ -1031,6 +1032,7 @@
         "wk:page":"Tuvalu",
         "wmo:id":"TV"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TV",
     "wof:country_alpha3":"TUV",
     "wof:geom_alt":[
@@ -1054,7 +1056,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1694639668,
+    "wof:lastmodified":1695881328,
     "wof:name":"Tuvalu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

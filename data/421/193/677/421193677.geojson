@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000763,
-    "geom:area_square_m":9312082.590949,
+    "geom:area_square_m":9312072.765555,
     "geom:bbox":"179.806739,-9.436449,179.872329,-9.346126",
     "geom:latitude":-9.391728,
     "geom:longitude":179.845713,
@@ -188,17 +188,19 @@
         "gn:id":7601983,
         "gp:id":24549920,
         "hasc:id":"TV.NL",
+        "iso:code":"TV-NKL",
         "iso:id":"TV-NKL",
         "qs_pg:id":59710,
         "wd:id":"Q128654",
         "wk:page":"Nukulaelae"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TV",
     "wof:created":1459009779,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e41e80a8873bbd0bda96cf7945404b6",
+    "wof:geomhash":"ef28e131f12da2d147108247f294d9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -215,7 +217,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1690875663,
+    "wof:lastmodified":1695884330,
     "wof:name":"Nukulaelae",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

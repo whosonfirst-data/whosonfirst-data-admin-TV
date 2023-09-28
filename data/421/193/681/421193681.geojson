@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000517,
-    "geom:area_square_m":6356528.377925,
+    "geom:area_square_m":6356705.246567,
     "geom:bbox":"176.05763,-5.702551,176.137765,-5.641625",
     "geom:latitude":-5.669167,
     "geom:longitude":176.106896,
@@ -224,17 +224,19 @@
         "gn:id":2110345,
         "gp:id":24549924,
         "hasc:id":"TV.NA",
+        "iso:code":"TV-NMA",
         "iso:id":"TV-NMA",
         "qs_pg:id":59713,
         "wd:id":"Q174618",
         "wk:page":"Nanumea"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TV",
     "wof:created":1459009779,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"714fde93dbf821eaf7ef3f6a2451c696",
+    "wof:geomhash":"7d025a00898cec8f2daf2712c73eb135",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -251,7 +253,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1690875662,
+    "wof:lastmodified":1695884871,
     "wof:name":"Nanumea",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

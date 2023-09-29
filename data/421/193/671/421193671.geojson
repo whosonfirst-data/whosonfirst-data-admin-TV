@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":4091547.073653,
+    "geom:area_square_m":4091569.124153,
     "geom:bbox":"176.312057,-6.303266,176.327347,-6.272387",
     "geom:latitude":-6.287611,
     "geom:longitude":176.320275,
@@ -191,17 +191,19 @@
         "gn:id":7601980,
         "gp:id":24549916,
         "hasc:id":"TV.NG",
+        "iso:code":"TV-NMG",
         "iso:id":"TV-NMG",
         "qs_pg:id":59707,
         "wd:id":"Q367027",
         "wk:page":"Nanumanga"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TV",
     "wof:created":1459009779,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa9249dd73ef972741730fca14660d26",
+    "wof:geomhash":"642f019c79ce27a9f930b45514c41651",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -218,7 +220,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1690875662,
+    "wof:lastmodified":1695884330,
     "wof:name":"Nanumanga",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

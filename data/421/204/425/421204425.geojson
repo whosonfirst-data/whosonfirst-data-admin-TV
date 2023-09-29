@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000824,
-    "geom:area_square_m":10071941.17887,
+    "geom:area_square_m":10072049.812025,
     "geom:bbox":"179.036678,-8.641312,179.202766,-8.424814",
     "geom:latitude":-8.524849,
     "geom:longitude":179.149859,
@@ -419,17 +419,19 @@
         "gn:id":2110384,
         "gp:id":24549921,
         "hasc:id":"TV.FN",
+        "iso:code":"TV-FUN",
         "iso:id":"TV-FUN",
         "qs_pg:id":240839,
         "wd:id":"Q34126",
         "wk:page":"Funafuti"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TV",
     "wof:created":1459010186,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e6e45156b34b24b82f8bb93c957bf1e0",
+    "wof:geomhash":"4844fb32c36bb3f0289762b8762ef17c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -446,7 +448,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1690875663,
+    "wof:lastmodified":1695884871,
     "wof:name":"Funafuti",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

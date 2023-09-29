@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":4348253.77237,
+    "geom:area_square_m":4348300.720239,
     "geom:bbox":"177.330095,-10.766341,179.499473,-6.102006",
     "geom:latitude":-7.747569,
     "geom:longitude":178.09914,
@@ -194,16 +194,18 @@
         "gn:id":7601979,
         "gp:id":24549918,
         "hasc:id":"TV.NT",
+        "iso:code":"TV-NIT",
         "iso:id":"TV-NIT",
         "qs_pg:id":59708,
         "wd:id":"Q475219"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TV",
     "wof:created":1459009779,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76423440966ff728f90ce2262da37838",
+    "wof:geomhash":"26c4e7666b8f9c1679b07ad74a425858",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -220,7 +222,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1690875661,
+    "wof:lastmodified":1695884330,
     "wof:name":"Niutao",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

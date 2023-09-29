@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000581,
-    "geom:area_square_m":7118459.425992,
+    "geom:area_square_m":7118418.223724,
     "geom:bbox":"178.305468,-8.074853,178.438006,-7.928192",
     "geom:latitude":-8.018703,
     "geom:longitude":178.378783,
@@ -197,17 +197,19 @@
         "gn:id":7601982,
         "gp:id":24549922,
         "hasc:id":"TV.NF",
+        "iso:code":"TV-NKF",
         "iso:id":"TV-NKF",
         "qs_pg:id":59711,
         "wd:id":"Q745924",
         "wk:page":"Nukufetau"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TV",
     "wof:created":1459009779,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4d84bf2e748b8a1d60b6aa0ab863b073",
+    "wof:geomhash":"772b91a4d8868e20529af5e64148cdfb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -224,7 +226,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1690875662,
+    "wof:lastmodified":1695884871,
     "wof:name":"Nukufetau",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

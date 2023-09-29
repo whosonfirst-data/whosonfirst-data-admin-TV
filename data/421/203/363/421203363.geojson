@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
-    "geom:area_square_m":5732033.222866,
+    "geom:area_square_m":5732078.418344,
     "geom:bbox":"177.143162,-7.25324,177.166086,-7.188564",
     "geom:latitude":-7.219687,
     "geom:longitude":177.154555,
@@ -184,17 +184,19 @@
         "gn:id":2110341,
         "gp:id":24549923,
         "hasc:id":"TV.NU",
+        "iso:code":"TV-NUI",
         "iso:id":"TV-NUI",
         "qs_pg:id":59712,
         "wd:id":"Q547997",
         "wk:page":"Nui (atoll)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TV",
     "wof:created":1459010148,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b2bd58274bb0ca568ba7cd86d8accc71",
+    "wof:geomhash":"429b54a4ff8ce44b58b4cd6427471590",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -211,7 +213,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1690875663,
+    "wof:lastmodified":1695884330,
     "wof:name":"Nui",
     "wof:parent_id":85632607,
     "wof:placetype":"region",

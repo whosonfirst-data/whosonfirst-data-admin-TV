@@ -135,8 +135,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"TV.VI"
+        "hasc:id":"TV.VI",
+        "iso:code":"TV-VAI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TV",
     "wof:geomhash":"4f2deafb5ee2e024ceaf25f4973e3d34",
     "wof:hierarchy":[
@@ -155,7 +157,7 @@
         "tvl",
         "eng"
     ],
-    "wof:lastmodified":1694493129,
+    "wof:lastmodified":1695884330,
     "wof:name":"Vaitupu",
     "wof:parent_id":85632607,
     "wof:placetype":"region",
